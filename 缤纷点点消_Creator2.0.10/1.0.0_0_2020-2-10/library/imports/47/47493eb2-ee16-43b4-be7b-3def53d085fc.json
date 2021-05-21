@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mianfeiqiubg",
+    "texture": "f06121af-929b-45c6-a403-71f625a79ce7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

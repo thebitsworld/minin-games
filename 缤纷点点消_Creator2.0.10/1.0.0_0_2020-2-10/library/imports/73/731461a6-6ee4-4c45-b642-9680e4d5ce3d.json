@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "but07",
+    "texture": "9579886c-ff3b-4684-b3c2-bd1a5afa9400",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      394,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      394,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

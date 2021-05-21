@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bencidefen_but_01",
+    "texture": "dee1e319-c802-42d9-af67-2461fef8eb1f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      312,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      312,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

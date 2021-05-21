@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diandian",
+    "texture": "f935df1e-b64e-4025-aed6-cd89d6564454",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      190
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      190
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

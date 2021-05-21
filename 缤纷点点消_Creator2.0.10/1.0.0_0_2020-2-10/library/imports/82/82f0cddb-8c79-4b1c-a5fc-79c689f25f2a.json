@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiesuan_dangqiandefen",
+    "texture": "80f4fc3b-4821-4054-bed6-7d4e3cf0c0ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      439,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      439,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

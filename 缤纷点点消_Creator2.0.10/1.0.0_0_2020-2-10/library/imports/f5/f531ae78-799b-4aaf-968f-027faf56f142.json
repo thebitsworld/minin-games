@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bencidefen_bg",
+    "texture": "68a67045-2ac4-4f5d-96be-7df92cc1a033",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      620,
+      222
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      620,
+      222
+    ],
+    "capInsets": [
+      25,
+      100,
+      25,
+      30
+    ]
+  }
+}

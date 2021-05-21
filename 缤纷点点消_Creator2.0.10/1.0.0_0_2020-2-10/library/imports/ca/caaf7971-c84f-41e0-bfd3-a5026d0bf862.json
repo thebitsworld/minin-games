@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "confetti_1",
+    "texture": "93d72ef5-d0f7-4424-acb1-21793676dfb4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      25,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      25,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

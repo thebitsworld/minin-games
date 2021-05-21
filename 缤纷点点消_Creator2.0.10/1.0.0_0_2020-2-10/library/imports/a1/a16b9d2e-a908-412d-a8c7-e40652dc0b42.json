@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "screenRecording",
+    "texture": "b561e0ba-a892-406c-8ac2-c78bab545afe",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      132,
+      107
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      132,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
