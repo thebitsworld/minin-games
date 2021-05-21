@@ -1,0 +1,55 @@
+{
+    "url": "https://www.77xyz.xyz/gameres/addone/config.json",
+    "wx": {
+        "dev": true,
+        "easy": false,
+		"showad":false,
+        "showvideo":true,
+        "adtime": 15,
+		"forcead":true,
+        "adUnitId": ["adunit-bd9c623df7379256"],
+		"adUnitIdVideo": ["adunit-efd2e7fb64e1352e"],
+        "shares": [
+            {
+                "imageUrlId": "waegOx3tQ5CES-gxWsncNQ",
+                "imageUrl": "https://mmocgame.qpic.cn/wechatgame/gKwCzR9cWiaLs3DLpIibR2kNEN3JBSVa4xO83e1JiaFxYJkq03T2ae3kMzBNqdbrJTD/0",
+                "title": "这关太难了,谁能过这关?"
+            },
+            {
+                "imageUrlId": "B2BivO3zRo2Bjd_lnwsjsg",
+                "imageUrl": "https://mmocgame.qpic.cn/wechatgame/gKwCzR9cWiaIaX4Y1Cse7g6sda0uQqo80j4iaeSsdLbRH5AVAAS4p6aWAFYicN3SQgf/0",
+                "title": "这关太难了,谁能过这关?"
+            }
+        ],
+        "dayVideo": 5,
+		"apps": [
+        {
+            "name": "怪物弹球",
+            "appId": "wxe1c1283ee118035b",
+            "icon": "https://www.77xyz.xyz/gameres/apps/e14035d92da7d85536d0fc8cc9f24846_360.png"
+        },
+        {
+            "name": "疯狂冲冲",
+            "appId": "wxa157f9ce62395437",
+            "icon": "https://www.77xyz.xyz/gameres/apps/startplatform-sheet.png"
+        },
+        {
+            "name": "赚钱公司",
+            "appId": "wx1da3b8b3fa6b2ff8",
+            "icon": "https://www.77xyz.xyz/gameres/apps/basicprofile.png"
+        }
+        ,
+        {
+            "name": "数字消消点",
+            "appId": "wx56376675da1dde64",
+            "icon": "https://www.77xyz.xyz/gameres/apps/aa.png"
+        },
+        {
+            "name": "方块碰碰消",
+            "appId": "wx6ca9015d9862249b",
+            "icon": "https://www.77xyz.xyz/gameres/apps/ac.png"
+        }
+    ]
+    }
+	
+}
